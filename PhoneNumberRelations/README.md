@@ -12,7 +12,7 @@ In general the goal is to get this working within 1h30min try to document your d
 We have the following phone numbers : 0123456789 0123987654 0123987456 2365498756 2365498765
 
 This gives the following graphs :
-
+```
                 4 - 5 - 6 - 7 - 8 - 9
 0 - 1 - 2 - 3 <
                 \            4 - 5 - 6
@@ -22,6 +22,7 @@ This gives the following graphs :
                                6 - 5
 2 - 3 - 6 - 5 - 4 - 9 - 8 - 7 <
                                5 - 6
+```
 The graphs contains 31 elements. So the function must return 31
 
 
